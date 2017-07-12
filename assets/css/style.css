@@ -104,16 +104,22 @@ section.bienvenida {
 .bienvenida{
   text-transform: uppercase;
 }
-.bienvenida p{
-  font-size: x-small;
-}
 .bienvenida h6{
   font-weight: bold;
 }
 .divider {
   margin: 26px 0;
 }
+.fontSizeXs{
+  font-size: x-small;
+}
 
+.perfiles h5{
+  font-weight: bold;
+}
+.perfiles .row{
+  margin-bottom: inherit;
+}
 
 
 
