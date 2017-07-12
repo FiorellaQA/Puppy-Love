@@ -93,6 +93,33 @@ img.img-banner{
   background-color: #F44336;
 }
 
+/* end style parallax*/
+section.bienvenida {
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.bienvenida{
+  text-transform: uppercase;
+}
+.bienvenida p{
+  font-size: x-small;
+}
+.bienvenida h6{
+  font-weight: bold;
+}
+.divider {
+  margin: 26px 0;
+}
+
+
+
+
+
+
+
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
